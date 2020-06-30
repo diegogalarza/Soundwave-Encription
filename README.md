@@ -1,4 +1,4 @@
-# Soundwave-Encryption
+# Soundwave Encryption
 _Soundwaves step-by-step encription using Hadamard Matrix, developed in MatLab_
 
 ## Content
