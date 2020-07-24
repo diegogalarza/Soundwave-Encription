@@ -1,5 +1,5 @@
 # Soundwave Encryption
-_Soundwaves step-by-step encription using Hadamard Matrix, developed in MatLab_
+_Soundwaves step-by-step encryption using Hadamard Matrix, developed in MatLab_
 
 ## Content
 * **Desencriptar.m** - File for decrypting the generated hadamard result
